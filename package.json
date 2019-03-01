@@ -1,0 +1,25 @@
+{
+  "name": "params-collector",
+  "version": "1.0.0",
+  "description": "Collect params in one object (params = params + query + body).",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bifot/params-collector.git"
+  },
+  "author": "Mikhail Semin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bifot/params-collector/issues"
+  },
+  "homepage": "https://github.com/bifot/params-collector#readme",
+  "keywords": [
+    "params",
+    "koa",
+    "express",
+    "middleware"
+  ]
+}
